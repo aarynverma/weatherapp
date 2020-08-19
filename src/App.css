@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.search-bar {
+    border: 1px solid white;
+    padding: 1em 3em;
+    border-radius: 5px;
+}
